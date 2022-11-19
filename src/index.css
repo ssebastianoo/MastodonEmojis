@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Ubuntu Mono";
+    src: url("/src/assets/UbuntuMono-R.ttf");
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: "Ubuntu Mono";
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: white;
+    background-color: black;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+        monospace;
+}
